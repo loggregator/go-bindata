@@ -7,12 +7,12 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/loggregator/go-bindata"
 	"os"
 	"path/filepath"
 	"regexp"
 	"strings"
 
-	"github.com/jteeuwen/go-bindata"
 )
 
 func main() {
